@@ -10,4 +10,4 @@ A message will pop up asking you for the message, which you will input and the f
 
 You can also alter the script to create the output message in a separate file if you cat the output into a file.txt.
 
-Last, if you want to run the program without the message prompt and as a sys arg, this can be done by importing the os modile with sys.arg set to 1 and then passing the sentence as a quoted string.
+Last, if you want to run the program without the message prompt and as a sys arg, this can be done by importing the os module with sys.arg set to 1 and then passing the sentence as a quoted string.
